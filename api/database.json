@@ -1,0 +1,28 @@
+{
+  "chicken": [
+    {
+      "id": 1,
+      "name": "Cluckie",
+      "gender": "male",
+      "color": "yellow",
+      "spicelevel": 4,
+      "purchased":false
+    },
+    {
+      "id": 3,
+      "name": "Cluck Norris",
+      "gender": "Male",
+      "color": "yellow",
+      "spicelevel": 1000,
+      "purchased": true
+    },
+    {
+      "id": 4,
+      "name": "Cluckie's Bride",
+      "gender": "female",
+      "color": "yellow",
+      "spicelevel": 2,
+      "purchased": false
+    }
+  ]
+}
